@@ -351,3 +351,8 @@ header {
     }
   }
   /* End Down arrow css */
+  /* final css */
+  /* LINKS ARE BLACK LOL */
+  a {
+    color: black;
+  }
