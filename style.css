@@ -319,7 +319,7 @@ header {
   /* DOWN ARROW CSS */
   .section {
     background: #333;
-    height: 100vh;
+    height: 50vh;
     position: relative;
     width: 100%;
   }
@@ -328,8 +328,8 @@ header {
     animation: bounce 1s ease infinite;
     bottom: 2rem;
     color: #fff;
-    content: '\╲\╱';
-    font-size: 2rem;
+    content: 'V'; /*'╲╱'*/
+    font-size: 5rem;
     height: 4rem;
     left: 50%;
     letter-spacing: -1px;
