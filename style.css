@@ -394,3 +394,10 @@ header {
   background-color: #f1f1f1;
 }
 /* End Card CSS */
+
+/* Buttons for social links */
+.social-link {
+  width: 40px;
+  height: 40px;
+}
+/* End buttons for social links */
