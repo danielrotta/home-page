@@ -323,7 +323,7 @@ header {
     position: relative;
     width: 100%;
   }
-  
+  /*
   .section::before {
     animation: bounce 1s ease infinite;
     bottom: 2rem;
@@ -350,6 +350,7 @@ header {
       transform: translateY(0);
     }
   }
+  */
   /* End Down arrow css */
   /* final css */
   /* LINKS ARE BLACK LOL */
