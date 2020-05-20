@@ -401,3 +401,9 @@ header {
   height: 40px;
 }
 /* End buttons for social links */
+
+/* license link for icons*/
+.license-link {
+  color: yellow;
+}
+/* end license link for icons */
